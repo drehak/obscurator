@@ -28,17 +28,17 @@ This library only focuses on visual similarity, not phonetic. Readers of native 
 ## Output showcase
 lower case; similarity tiers: none / high / medium / low / medium+low; substitution chance: 100%
 * Gaze at this sentence for just about sixty seconds and then explain what makes it quite different from the average sentence.
-* Gаzе аt thіѕ ѕеntеnϲе fοr јuѕt аbоut ѕіхtу ѕеϲоndѕ аnd thеn ехрlаіn whаt mаkеѕ іt quіtе dіffеrеnt frοm thе аvеrаgе ѕеntеnϲе.
-* Gazё aτ τћιs sѐηтёηcё fσr jυsт aвσυτ sιχτγ sёcσηds aηd τћѐη ѐχρlaιη wћaт мaќёs їт qυιтѐ dїffѐrѐητ frσм тнё avёragё sёηтёηcѐ.
-* Gαzэ αt this sεѝtэѝcз foя jμst αβoμt sixtў sєcoиδs αѝδ thєи εxplαiѝ ωhαt mαkэs it qμitε δiffзязѝt fяom thэ αvєяαgε sэѝtєѝcє.
-* Gαzε ατ τћιs sєиτзηcє fσя jμsτ αвσυτ sιχтў sεcσηδs αѝδ τнзѝ ѐχρlαιѝ шнαт мακэs ιт qυιтз δїffёяєѝτ fяσм τнѐ αvзяαgэ sεητэѝcз.
+* Gаzе аt thіѕ ѕеntеnϲе fоr јuѕt аbοut ѕіхtу ѕесοndѕ аnd thеn ехрlаіn whаt mаkеѕ іt quіtе dіffеrеnt frοm thе аvеrаgе ѕеntеnϲе.
+* Gӑzӗ ӓт τһїs sёηҭӗηҫҿ ғσr jυsτ ӓвөυт sїχτү sӗҫӧηds ӑηd τҺӗη ѐχρlӓїη wӊӑτ мӓќѐs їτ qυїҭӗ dїғғёrѐηт ғrσӎ тӊё ӑѵҽrӓgѐ sѐηтѐηҫҽ.
+* Gαzӟ αt tҕis sεӣtεӥcэ ӻѳя jμst αѢѳμt siӿtў sєcӫиδs αиδ tӈэӥ єӿplαiӣ шӈαt mαӄεs it qμitҙ δiӻӻӭяӭӣt ӻяѳm tӈє αѷєяαgε sзиtεѝcӟ.
+* Gӓzҽ ӑҭ τӊїs sёӣҭӭиҫӗ ӻӫя jμsτ ӑвӧυτ sιӽҭӯ sҽҫσиδs ӓηδ τҥэӣ эӿρlӑιӥ шңӓт мӓκӭs їτ qμιтє διӻӻєяёӥτ ӻяσӎ τҕҙ ӑѷэяӓgз sёитӟиҫӗ.
 
 upper case; similarity tiers: none / high / medium / low / medium+low; substitution chance: 100%
 * GAZE AT THIS SENTENCE FOR JUST ABOUT SIXTY SECONDS AND THEN EXPLAIN WHAT MAKES IT QUITE DIFFERENT FROM THE AVERAGE SENTENCE.
-* GΑΖЕ АТ ΤНΙЅ ЅЕΝТЕΝϹΕ FОR ЈUЅТ ΑВΟUТ ЅΙΧΤΥ ЅΕϹΟΝDЅ ΑΝD ΤНЕΝ ΕХΡLΑІΝ WНАТ МАΚΕЅ ІΤ QUΙΤΕ DІFFЕRΕΝТ FRОМ ТНΕ ΑVЕRΑGЕ ЅΕΝΤЕΝϹΕ.
-* GAZЀ AT THЇS SЁNTЁNCЁ FOR JUST ABOUT SЇXTУ SЁCONDS AND THЁN ЁXPLAЇN WHAT MAЌЀS ЇT QUЇTЁ DЇFFЀRЁNT FROM THЁ AVЁRAGЀ SЀNTЀNCЀ.
-* GAZЭ AT THIS SЗИTЄЍCΣ ЃΘЯ JUST AБΘUT SIXTЎ SЭCΘЍDS AИD THΞЍ ЄXPLAIЍ WHAT MAKΣS IT QUITЄ DIΓГЗЯΞИT ЃЯΘM THЭ AVΣЯAGΞ SΣЍTЄЍCЭ.
-* GAZЀ AT THЇS SЭЍTΞИCΣ ΓΘЯ JUST AБΘUT SЇXTЎ SЭCΘИDS AИD THЄЍ ЄXPLAЇЍ WHAT MAЌЁS ЇT QUЇTΣ DЇЃГЗЯЀИT ЃЯΘM THΞ AVЀЯAGΞ SЄИTΞЍCΞ.
+* GΑΖΕ ΑТ ТНΙЅ ЅЕΝТΕΝϹЕ FОR ЈUЅТ АΒΟUТ ЅӀХΤΥ ЅЕϹОΝDЅ АΝD ТΗΕΝ ЕΧΡLАΙΝ WΗАТ ΜΑΚΕЅ ӀТ QUӀΤЕ DӀFFЕRЕΝТ FRΟМ ТΗΕ АVΕRАGЕ ЅЕΝΤЕΝСΕ.
+* GӐZЁ ӐҬ ҬҢЇS SӖNҬӖNҪӖ ӺӨR JUSҬ ӐBѲUҬ SЇҲҬУ SЁҪѺNDS ӐND ҬӉЀN ЁӼҎLӒЇN WҢӐҬ ӍӒҚЁS ЇҬ QUЇҬӖ DЇӺӺӖRЀNҬ ҒRѲӍ ҬӉӖ ӒѴЀRӒGӖ SӖNҬӖNҪЀ.
+* GAZҘ AT TӇIS SӬӤTЄӤCӠ ГӪЯ JUST AБΘUT SIӾTЎ SӞCӪЍDS AЍD TӇӞЍ ӞӾPLAIӢ ѠҔAT MAӃΞS IT QUITҼ DIΓГЗЯҼӤT ӶЯӪM TҔҼ AѶЄЯAGӬ SΣЍTӠӤCΣ.
+* GӒZЄ ӐҬ ҬҢЇS SҼӤҬҾЍҪӠ ΓӨЯ JUSҬ ӐБӨUҬ SЇҲҬӰ SҘҪӦЍDS ӒЍD ҬҢӖӤ ЭӾҎLӐЇЍ ѠӉӐҬ ӍӐЌӬS ЇҬ QUЇҬЁ DЇГЃЄЯӬЍҬ ҐЯӪӍ ҬҤЄ ӐѴЄЯӒGӖ SΣИҬЁЍҪҼ.
 
 I don't see why anyone would want to use the lower tiers.
 
