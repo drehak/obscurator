@@ -7,7 +7,7 @@ However, this increases performance on concurrent use.
 from collections import defaultdict
 from random import choice, random
 
-from alphabets import GREEK, RUSSIAN
+from alphabets import GREEK, CYRILLIC
 from common import Similarity
 
 
@@ -18,7 +18,7 @@ class Obscurator():
     :param similarities: a list of permitted similarities of letters to be used
     '''
     def __init__(self, alphabets=None, similarities=None):
-        alphabets = alphabets or [GREEK, RUSSIAN]
+        alphabets = alphabets or [GREEK, CYRILLIC]
         similarities = similarities or [Similarity.HIGH]
         self.simulacra = defaultdict(list)
 
