@@ -9,7 +9,6 @@ def showcase(s):
         [Similarity.HIGH],
         [Similarity.MEDIUM],
         [Similarity.LOW],
-        [Similarity.MEDIUM, Similarity.LOW]
     ]:
         o = Obscurator(similarities=tiers)
         print(o.substitute(s, chance=1))
